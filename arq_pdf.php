@@ -4,7 +4,7 @@
 Atividade FPDF - PHP
 CST Análise e Desenvolvimento de Sistemas (3º-MAT) 
 Linguagem Técnica de Programação II
-Alunas: Emanuely Vitória  Jadielle Cordeiro
+Alunas: Emanuely Vitória  Jadielle Cordeiro  João Lucas de Oliveira
 */
 
 require('../fpdf/fpdf185/fpdf.php');
